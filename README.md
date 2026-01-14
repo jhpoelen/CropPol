@@ -43,7 +43,7 @@ We started using livedat **Template Repo** designed to assist in setting up a re
 
 ## Indexing
 
-[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:ibartomeus/OBservData&refutes=true&refutes=false)](https://globalbioticinteractions.org/?accordingTo=globi:ibartomeus/OBservData)
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:ibartomeus/CropPol&refutes=true&refutes=false)](https://globalbioticinteractions.org/?accordingTo=globi:ibartomeus/CropPol)
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
 
